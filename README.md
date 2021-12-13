@@ -9,9 +9,9 @@ To make the user experience for sellers (making it easier to put new items onlin
 
 # Mission 
 
-Carry out a feasibility study of an article classification engine based on an image and a description for the automation of the attribution of the article category.
+- Feasibility study of an article classification engine based on an image and a description for the automation of the attribution of the article category.
 
-Analysing the dataset by performing preprocessing of product images and descriptions, dimension reduction, and then clustering. 
+- Analysis of the dataset by performing preprocessing of product images and descriptions, dimension reduction, and then clustering. 
 
 
 # Data 
