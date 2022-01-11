@@ -19,11 +19,11 @@ To make the user experience for sellers (making it easier to put new items onlin
 1050 articles.
 
 7 categories, each containing 150 articles:
-o Baby Care
-o Watches
-o Beauty and Personal Care
-o Home Decor Festive Needs, Home Furnishing o Computers
-o Kitchen Dining
+- Baby Care
+- Watches
+- Beauty and Personal Care
+- Home Decor Festive Needs, Home Furnishing o Computers
+- Kitchen Dining
 
 By article: photo and information (text): name, description, price, specifications.
 
